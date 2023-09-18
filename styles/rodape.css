@@ -1,0 +1,14 @@
+hr {
+    margin: 0;
+}
+
+.rodape {
+    background-color: var(--branco-secundario);
+    padding: 1em;
+    text-align: center;
+}
+
+.rodape_titulo {
+    font-family: var(--fonte-principal);
+    font-size: 14px;
+}
